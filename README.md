@@ -32,7 +32,8 @@
 ![Day 2 StoreFront](https://github.com/Ryanb021/storefront/assets/120413183/a482bf19-f2b1-4a5c-8b8a-b8b5773db506)
 
 ### Day 3
-![Day 3 StoreFront](https://github.com/Ryanb021/storefront/assets/120413183/79ff6190-c04d-4374-8c4b-08b478af6c28)
+![Day 3 StoreFront](https://github.com/Ryanb021/storefront/assets/120413183/673f9011-6be2-40b4-8fad-49b7a2356fcf)
+
 
 
 
