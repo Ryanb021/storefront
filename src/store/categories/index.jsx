@@ -1,8 +1,8 @@
 let initialState = {
   categories: [
-    { name: 'electronics', displayName: 'Electronics', description: 'Electronics are cool.' },
-    { name: 'food', displayName: 'Food', description: 'Food is cool.'},
-    { name: 'clothing', displayName: 'Clothing', description: 'Clothing is cool.' },
+    { name: 'electronics', displayName: 'Electronics', description: 'Electronics on Sale!' },
+    { name: 'food', displayName: 'Food', description: 'Food gives you energy.'},
+    { name: 'clothing', displayName: 'Clothing', description: 'Clothing that will make you look good.' },
   ],
   activeCategory: ''
 };
