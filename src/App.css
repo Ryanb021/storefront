@@ -1,7 +1,8 @@
-.App {
+.App-Header {
   text-align: center;
+  background-color: darkgrey;
 }
-
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +37,4 @@
     transform: rotate(360deg);
   }
 }
+*/
